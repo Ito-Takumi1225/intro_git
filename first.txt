@@ -2,4 +2,5 @@ Gitの練習
 added
 git add
 git commit
-added 
+added
+git status
